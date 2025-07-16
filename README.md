@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there!!<br><br>🛠️ I'm currently working on<br>Full-stack + ML real world problem solving projects <br><br>🤝 I'm looking to collaborate on<br>Scalable web or AI-based impact projects<br><br>💡 I'm looking for help with<br>Fine-tuning ML models & clean deployment<br><br>🌱 I'm currently learning<br>React, NLP, and cloud deployment workflows<br><br>💬 Ask me about<br>Anything except coding<br><br>⚡ Fun fact<br>I debug better with snacks than with Stack Overflow.
+Hello there!!<br>🛠️ I'm currently working on<br>Full-stack + ML real world problem solving projects <br>🤝 I'm looking to collaborate on<br>Scalable web or AI-based impact projects<br>💡 I'm looking for help with<br>Fine-tuning ML models & clean deployment<br>🌱 I'm currently learning<br>React, NLP, and cloud deployment workflows<br>💬 Ask me about<br>Anything except coding<br>⚡ Fun fact<br>I debug better with snacks than with Stack Overflow.
 
 
 ## 🌐 Socials:
