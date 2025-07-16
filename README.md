@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there!!<br>🛠️ I'm currently working on Full-stack + ML projects <br><br>🤝 I'm looking to collaborate on scalable web or AI-based impact projects<br><br>💡 I'm looking for help with fine-tuning ML models & clean deployment<br><br>🌱 I'm currently learning React, NLP, and cloud deployment workflows<br><br>💬 Ask me about anything except coding<br>⚡ Fun fact I debug better with snacks than with Stack Overflow.
+Hello there!!<br><br>🛠️ I'm currently working on Full-stack + ML projects <br><br>🤝 I'm looking to collaborate on scalable web or AI-based impact projects<br><br>💡 I'm looking for help with fine-tuning ML models & clean deployment<br><br>🌱 I'm currently learning React, NLP, and cloud deployment workflows<br><br>💬 Ask me about anything except coding<br><br>⚡ Fun fact I debug better with snacks than with Stack Overflow.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ Hello there!!<br>🛠️ I'm currently working on Full-stack + ML projects <br><
 ![](https://github-readme-stats.vercel.app/api?username=SAMBHAV-240&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SAMBHAV-240&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMBHAV-240&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SAMBHAV-240&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
